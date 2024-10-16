@@ -1,17 +1,4 @@
 # ElevateX: The Intelligent Elevator Synchronization System
-## Team Details
-<details >
-  Semester: 3rd Sem B. Tech. CSE <br/>
-  Section: S2 <br/>
-  Team ID: S2-T20 <br/><br/>
-  
-| Member| Name  | Roll No. | Email | Mobile No.|
-| -------------| ------------- | ------------- | ------------- | ------------- |
-|1| Praveen Yadav  | 231CS243  |  py.231cs243@nitk.edu.in  | 8957369320  |
-|2| Hrishab Sharma  |  231CS226   |  hrishabsharma.231cs226@nitk.edu.in   | 6375503401  |
-|3| Amrit Lathar  | 231CS207  |  amritlathar.231cs207@nitk.edu.in  |  9216325654  |
-  </details>
-
 
 ## Abstract :
 <details >
